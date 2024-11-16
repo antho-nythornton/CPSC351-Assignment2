@@ -22,5 +22,6 @@ gcc sta.c -o sta
 You then do ./sta 
 To get the output 
 Program Output:
-![cpsc351](/home/student/assignment2cpsc351/cpsc351.png)
+
+![cpsc351](https://github.com/user-attachments/assets/dc9c23d6-7f6f-4e7d-88fe-845c1353bd2d)
 
